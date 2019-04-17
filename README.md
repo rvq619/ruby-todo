@@ -5,20 +5,18 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version: 2.5.1
 
-* System dependencies
+* System dependencies: none
 
-* Configuration
+* Configuration: none
 
-* Database creation
+* Database creation: sqlite
 
 * Database initialization
 
 * How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
+* Services (job queues, cache servers, search engines, etc.): none
 
-* Deployment instructions
-
-* ...
+* Deployment instructions: git pull
